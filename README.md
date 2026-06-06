@@ -520,7 +520,7 @@ Services to securely store your Docker images.
 - [Screwdriver :heavy_dollar_sign:](https://screwdriver.cd/) - Yahoo's OpenSource buildplatform designed for Continous Delivery.
 - [Skipper](https://github.com/Stratoscale/skipper) - Easily dockerize your Git repository by [@Stratoscale](https://github.com/Stratoscale)
 - [SwarmCI](https://github.com/ghostsquad/swarmci) - Create a distributed, isolated task pipeline in your Docker Swarm.
-- [Watchtower](https://github.com/containrrr/watchtower) - Automatically update running Docker containers
+- [Watchtower](https://github.com/openserbia/watchtower) - Automatically update running Docker containers (the original containrrr repo is archived; this is an actively maintained, drop-in fork)
 
 ### Development Environment
 
